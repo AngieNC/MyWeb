@@ -19,3 +19,6 @@ El archivo README comunica lo que un montón de código no, pues ahí se podría
 https://platzi.com/blog/aprende-a-crear-un-excelente-readme-para-tus-proyectos/
 
 https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+
+
+##Angie Cardenas
